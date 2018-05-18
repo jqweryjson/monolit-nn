@@ -1,0 +1,19 @@
+{
+  "name": "monolit-nn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-shell": "^0.6.5",
+    "lodash": "^4.17.10",
+    "node-sass": "^4.6.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "gulp-cli": "^2.0.1",
+    "jquery": "^3.3.1"
+  }
+}
