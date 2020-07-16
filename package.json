@@ -8,7 +8,7 @@
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.1",
     "gulp-shell": "^0.6.5",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "node-sass": "^4.6.0"
   },
   "dependencies": {
